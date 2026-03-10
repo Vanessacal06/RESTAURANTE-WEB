@@ -4,20 +4,20 @@ body {
 }
 
 header {
-  background: #333;
+  background: #610808;
   color: white;
   text-align: center;
   padding: 20px;
 }
 
 nav {
-  background: #555;
+  background: #c46f6f;
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: white;
+  color: rgb(0, 0, 0);
   margin: 10px;
   text-decoration: none;
 }
@@ -26,14 +26,14 @@ padding:20px;}
 ul{
 list-style:none;}
 li{
-background:#eee;
+background:#772a2a;
 margin:10px;
 padding:10px;
 border-radius:5px;}
 
 footer{
-background:#222;
-color:white;
+background:#d67070;
+color:rgb(0, 0, 0);
 text-align:center;
 padding:20px;
 margin-top:30px;}
